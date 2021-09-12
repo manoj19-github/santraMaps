@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/santramaps/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/santramaps/static/js/main.5077ea70.chunk.js",
+    "main.js.map": "/santramaps/static/js/main.5077ea70.chunk.js.map",
+    "runtime-main.js": "/santramaps/static/js/runtime-main.16e4f5d4.js",
+    "runtime-main.js.map": "/santramaps/static/js/runtime-main.16e4f5d4.js.map",
+    "static/css/2.a57a09e5.chunk.css": "/santramaps/static/css/2.a57a09e5.chunk.css",
+    "static/js/2.58833846.chunk.js": "/santramaps/static/js/2.58833846.chunk.js",
+    "static/js/2.58833846.chunk.js.map": "/santramaps/static/js/2.58833846.chunk.js.map",
+    "static/js/3.7bca471c.chunk.js": "/santramaps/static/js/3.7bca471c.chunk.js",
+    "static/js/3.7bca471c.chunk.js.map": "/santramaps/static/js/3.7bca471c.chunk.js.map",
+    "index.html": "/santramaps/index.html",
+    "static/css/2.a57a09e5.chunk.css.map": "/santramaps/static/css/2.a57a09e5.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/santramaps/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.58833846.chunk.js.LICENSE.txt": "/santramaps/static/js/2.58833846.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/santramaps/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/logo.6ce24c58.svg": "/santramaps/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16e4f5d4.js",
+    "static/css/2.a57a09e5.chunk.css",
+    "static/js/2.58833846.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5077ea70.chunk.js"
+  ]
+}
